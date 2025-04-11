@@ -1,2 +1,1 @@
-Delete duplicate forward.js
 
